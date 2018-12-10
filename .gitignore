@@ -2,3 +2,4 @@
 artsite_v1
 __pycache__
 /artsite/artsite/settings.py
+env
